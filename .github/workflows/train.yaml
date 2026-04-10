@@ -19,4 +19,4 @@ jobs:
         run: pip install -r requirements.txt
       
       - name: Run training script
-        run: python train.py
+        run: python train_model.py
